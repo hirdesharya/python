@@ -1,2 +1,3 @@
 print("hello")
-Print("Hello Mark")
+print("Hello Mark")
+print("hello pintu")
